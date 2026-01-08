@@ -1,4 +1,4 @@
-# Nokia E7 Survival Guide
+# Nokia E7 Survival Kit
 Nokia E7 was released in 2010. People say that it was long obsolete, but for vintage phone collectors, this is a gem. And thanks to those passionate people, Nokia E7 is still rocking well in 2026, with some hacks and mods. I would like to share what I have done to my phone and the apps I am using to make it partially usable in today's world.
 
 Disclaimer: I am not including ALL the games I installed in the list of apps. I only include one game that is newly made on Symbian. 
@@ -45,7 +45,7 @@ What's improved after installing the TLS patch:
 - Belly Jean
 
 ### System Tools
-- Custom App Stores: S60world / S60DL / Wunderapp / SIStore / JMobiDL
+- Custom App Stores: (S60world)[https://s60world.ir/] / S60DL / [Wunderland Store](https://ovi.wunderwungiel.pl/home/) / SIStore / JMobiDL
 - X-plore
 - ROMpatcher: Always enable CRepository4all_fix_FP2 and Open4All RP+. Why: CRepository helps changing the web agent using the Delight App. Open4All RP+ helps with installing TLS 1.2 patch.
 - (Pigler Notification API](https://nnproject.cc/pna/): This adds more features to the stock notification center (e.g. currently playing songs).
