@@ -4,7 +4,7 @@ Nokia E7 was released in 2010. People say that it was long obsolete, but for vin
 Disclaimer: I am not including ALL the games I installed in the list of apps. I only include one game that is newly made on Symbian. 
 
 ## ROM/Custom Firmware
-**[Delight](https://www.symwld.com/delight/)**
+**Delight | [Link](https://www.symwld.com/delight/)**
 - Improved performance as it removes unnecessary apps from the stock ROM.
 - It is hacked by default, meaning it is possible to install any SIS/SISX apps without certification errors; plus, it includes every patch possible in ROMPatcher+.
 - It comes with more mods, both UX and UI-wise, thanks to the Delight App and other pre-installed system mod apps.
@@ -21,21 +21,21 @@ What's improved after installing the TLS patch:
 ## Apps that I am using or would recommend
 **¹ Included in the folder**
 ### Music / Entertainment
-- [JTube](https://nnp.nnchan.ru/jtube/): A working J2ME YouTube client on Symbian. Use these configurations below (added soon)
-- [MIDplay](https://github.com/phd051199/MIDPlay): A J2ME Spotify/SoundCloud/YouTube music client on Symbian.
+- JTube | [Link](https://nnp.nnchan.ru/jtube/): A working J2ME YouTube client on Symbian. Use these configurations below (added soon)
+- MIDplay | [Link](https://github.com/phd051199/MIDPlay): A J2ME Spotify/SoundCloud/YouTube music client on Symbian.
 - JukeBox¹: A working Internet radio app on Symbian.
-- [ClassiCube](https://nnproject.cc/cc/): A recreation of Minecraft Classic, ported to Symbian.
+- ClassiCube | [Link](https://nnproject.cc/cc/): A recreation of Minecraft Classic, ported to Symbian.
 - Podcatcher¹: A working podcast app on Symbian.
 - Music and FM Radio should work without any modifications.
 
 ### Productivity
 - Mailbox Creator¹: An app that creates dummy Gmail and Yahoo accounts. Follow [this video's instruction](https://www.youtube.com/watch?v=qojJ1PmNfP4) to properly add new emails.
 - Google Maps¹: An app that does Google Maps things, it is actually an old version.
-- [Translator](https://nnproject.cc/bingt/): Use simpletranslate instance with Google Translate result.
+- Translator | [Link](https://nnproject.cc/bingt/): Use simpletranslate instance with Google Translate result.
 - Opera Mini: A faster, snappier web experience for Symbian devices. It also helps loading several pages that are unloadable on other web browsers.
-- [GH2ME](https://nnproject.cc/gh2me/): A J2ME GitHub browser which is capable of browsing and searching for users and repos.
+- GH2ME | [Link](https://nnproject.cc/gh2me/): A J2ME GitHub browser which is capable of browsing and searching for users and repos.
 - RSS feed: Using the stock Web browser. Here's how to add new RSS feed onto the Feed list.
-- [discord-j2me](https://github.com/gtrxAC/discord-j2me): A J2ME Discord client running on Symbian.
+- discord-j2me | [Link](https://github.com/gtrxAC/discord-j2me): A J2ME Discord client running on Symbian.
 - CleverCalc¹ / Calculator (by nnproject): Scientific calculator
 - AppsHider¹: Hiding apps from the Menu
 - Simple Timer Plus¹: A simple working timer on Symbian Belle.
@@ -47,7 +47,17 @@ What's improved after installing the TLS patch:
 - Belly Jean¹
 
 ### System Tools
-- Custom App Stores: [S60world](https://s60world.ir/) / S60DL / [Wunderland Store](https://ovi.wunderwungiel.pl/home/) / SIStore / JMobiDL
+- Custom App Stores:
+  - S60world | [Link](https://s60world.ir/)
+  - S60DL
+  - Wunderland Store | [Link](https://ovi.wunderwungiel.pl/home/)
+  - SIStore
+  - JMobiDL
 - X-plore¹
 - ROMpatcher: Included in the Delight ROM. Always enable **CRepository4all_fix_FP2** and **Open4All RP+**. CRepository helps changing the web agent using the Delight App. Open4All RP+ helps with installing TLS 1.2 patch.
 - [Pigler Notification API](https://nnproject.cc/pna/): This adds more features to the stock notification center (e.g. currently playing songs).
+
+## Extras
+There are some passionate communities/group chats about Symbian that are still around and active, and I would like to name a few.
+- Symbian World on Telegram | [Link](https://t.me/symbian_world)
+- r/symbian on Reddit | [Link](https://www.reddit.com/r/symbian/)
