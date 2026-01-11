@@ -1,4 +1,7 @@
 # Nokia E7 Survival Kit
+
+![IMG_7717](https://github.com/user-attachments/assets/efacedd2-1c01-40a9-be6b-e67f39ef0f39)
+
 Nokia E7 was released in 2010. People say that it was long obsolete, but for vintage phone collectors, this is a gem. And thanks to those passionate people, Nokia E7 is still rocking well in 2026, with some hacks and mods. I would like to share what I have done to my phone and the apps I am using to make it partially usable in today's world.
 
 **Disclaimer:** I am not including ALL the games I installed in the list of apps. I only include one game that is newly made on Symbian. 
