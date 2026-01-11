@@ -49,7 +49,7 @@ What's improved after installing the TLS patch:
 
 ### System Tools
 - Custom App Stores:
-  - S60world | [Link]([https://s60world.ir/](https://web.archive.org/web/20251218064200/http://s60world.ir/))
+  - S60world | [Link](https://web.archive.org/web/20251218064200/http://s60world.ir/)
   - S60DL¹
   - Wunderland Store | [Link](https://ovi.wunderwungiel.pl/home/)
   - JMobiDL¹
@@ -61,3 +61,10 @@ What's improved after installing the TLS patch:
 There are some passionate communities/group chats about Symbian that are still around and active, and I would like to name a few.
 - Symbian World on Telegram | [Link](https://t.me/symbian_world)
 - r/symbian on Reddit | [Link](https://www.reddit.com/r/symbian/)
+
+## Adding RSS Feeds
+- Open the stock Web app.
+- Select the hamburger menu (the rightmost button at the bottom) > ``Feeds``
+- Select the second button from the left (next to the Back arrow button) to add a new RSS feed
+- Specify the title and the address of the RSS feed. Consider changing the feed update frequency within the ``Automatic updates`` options.
+- Select the hamburger menu > ``Save``
