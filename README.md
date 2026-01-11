@@ -20,7 +20,9 @@ What's improved after installing the TLS patch:
 - The stock Web browser should load modern websites without relying on HTTPS proxy OR prompting errors because of old certificates.
 
 ## App Recommendations
-**¹ Included in the folder**
+**¹ Included in the ``apps`` folder**
+
+**² Included in the ``themes`` folder**
 ### Music / Entertainment
 - JTube¹ | [Link](https://web.archive.org/web/20251120012334/https://nnproject.cc/jtube/): A working J2ME YouTube client on Symbian. Use these configurations below (added soon)
 - MIDplay | [Link](https://github.com/phd051199/MIDPlay): A J2ME Spotify/SoundCloud/YouTube music client on Symbian.
@@ -42,10 +44,10 @@ What's improved after installing the TLS patch:
 - Simple Timer Plus¹: A simple working timer on Symbian Belle.
 
 ### Theme Recommendations
-- REvolve - daeva112¹
-- Evolve+¹
-- Metro Revolution Pro¹
-- Belly Jean¹
+- REvolve - daeva112²
+- Evolve+²
+- Metro Revolution Pro²
+- Belly Jean²
 
 ### System Tools
 - Custom App Stores:
