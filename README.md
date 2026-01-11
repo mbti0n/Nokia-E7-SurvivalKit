@@ -3,6 +3,8 @@ Nokia E7 was released in 2010. People say that it was long obsolete, but for vin
 
 Disclaimer: I am not including ALL the games I installed in the list of apps. I only include one game that is newly made on Symbian. 
 
+
+
 ## ROM/Custom Firmware
 **Delight | [Link](https://www.symwld.com/delight/)**
 - Improved performance as it removes unnecessary apps from the stock ROM.
@@ -10,9 +12,8 @@ Disclaimer: I am not including ALL the games I installed in the list of apps. I 
 - It comes with more mods, both UX and UI-wise, thanks to the Delight App and other pre-installed system mod apps.
 
 ## IMPORTANT: 
-**Please install the TLS 1.2 patch. Following [the guide here](http://nnp.nnchan.ru/tls/), credits to nnproject.** 
+**Please install the TLS 1.2 patch. Following [the guide here](https://web.archive.org/web/20251212194836/https://nnproject.cc/tls/), credits to nnproject.** 
 
-My recommendation is you should open the guide in Opera Mini because it is the only browser that the guide can be loaded on my E7.
 What's improved after installing the TLS patch:
 - No more "website certificate expired" pop-ups. This is more crucial when it comes to loading emails–images can be loaded INSTANTANEOUSLY without asking.
 - It is possible to use today's RSS feed and podcast show URLs, as the majority of them are HTTPS-encrypted.
@@ -21,19 +22,19 @@ What's improved after installing the TLS patch:
 ## App Recommendations
 **¹ Included in the folder**
 ### Music / Entertainment
-- JTube¹ | [Link](https://nnp.nnchan.ru/jtube/): A working J2ME YouTube client on Symbian. Use these configurations below (added soon)
+- JTube¹ | [Link](https://web.archive.org/web/20251120012334/https://nnproject.cc/jtube/): A working J2ME YouTube client on Symbian. Use these configurations below (added soon)
 - MIDplay | [Link](https://github.com/phd051199/MIDPlay): A J2ME Spotify/SoundCloud/YouTube music client on Symbian.
 - LCG JukeBox¹: A working Internet radio app on Symbian.
-- ClassiCube¹ | [Link](https://nnproject.cc/cc/): A recreation of Minecraft Classic, ported to Symbian.
+- ClassiCube¹ | [Link]([https://nnproject.cc/cc/](https://web.archive.org/web/20251204073204/https://nnproject.cc/cc/)): A recreation of Minecraft Classic, ported to Symbian.
 - Podcatcher¹: A working podcast app on Symbian.
 - Music and FM Radio should work without any modifications.
 
 ### Productivity
 - Mailbox Creator¹: An app that creates dummy Gmail and Yahoo accounts. Follow [this video's instruction](https://www.youtube.com/watch?v=qojJ1PmNfP4) to properly add new emails.
 - Google Maps¹: An app that does Google Maps things, it is actually an old version.
-- Translator¹ | [Link](https://nnproject.cc/bingt/): Use simpletranslate instance with Google Translate result.
-- Opera Mini: A faster, snappier web experience for Symbian devices. It also helps loading several pages that are unloadable on other web browsers.
-- GH2ME | [Link](https://nnproject.cc/gh2me/): A J2ME GitHub browser which is capable of browsing and searching for users and repos.
+- Translator¹ | [Link]([https://nnproject.cc/bingt/](https://web.archive.org/web/20251122183146/https://nnproject.cc/bingt/)): Use simpletranslate instance with Google Translate result.
+- Opera Mini | [Link](http://m.opera.com/?region&rnd=1937773398&act=lp&tag=mini5s60&vid=0x9c7f9c859a2dd90a&cert=all&ua=Nokia): A faster, snappier web experience for Symbian devices. It also helps loading several pages that are unloadable on other web browsers.
+- GH2ME | [Link](https://web.archive.org/web/20251128084353/https://nnproject.cc/gh2me/): A J2ME GitHub browser which is capable of browsing and searching for users and repos.
 - RSS feed: Using the stock Web browser. Here's how to add new RSS feed onto the Feed list.
 - discord-j2me | [Link](https://github.com/gtrxAC/discord-j2me): A J2ME Discord client running on Symbian.
 - CleverCalc¹ / Calculator (by nnproject): Scientific calculator
@@ -48,13 +49,13 @@ What's improved after installing the TLS patch:
 
 ### System Tools
 - Custom App Stores:
-  - S60world | [Link](https://s60world.ir/)
+  - S60world | [Link]([https://s60world.ir/](https://web.archive.org/web/20251218064200/http://s60world.ir/))
   - S60DL¹
   - Wunderland Store | [Link](https://ovi.wunderwungiel.pl/home/)
   - JMobiDL¹
 - X-plore¹
 - ROMpatcher: Included in the Delight ROM. Always enable **CRepository4all_fix_FP2** and **Open4All RP+**. CRepository helps changing the web agent using the Delight App. Open4All RP+ helps with installing TLS 1.2 patch.
-- Pigler Notification API | [Link](https://nnproject.cc/pna/): This adds more features to the stock notification center (e.g. currently playing songs).
+- Pigler Notification API | [Link](https://web.archive.org/web/20251204073143/https://nnproject.cc/pna/): This adds more features to the stock notification center (e.g. currently playing songs).
 
 ## Extras
 There are some passionate communities/group chats about Symbian that are still around and active, and I would like to name a few.
