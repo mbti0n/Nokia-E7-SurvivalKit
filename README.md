@@ -7,7 +7,7 @@ Disclaimer: I am not including ALL the games I installed in the list of apps. I 
 Table of Contents
 =================
 
-  * [Dockerfile.vim](#dockerfilevim)
+  * [ROM/Custom Firmware](#rom-custom-firmware)
   * [Screenshot](#screenshot)
   * [Installation](#installation)
         * [OR using Pathogen:](#or-using-pathogen)
