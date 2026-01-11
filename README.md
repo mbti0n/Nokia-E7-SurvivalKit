@@ -21,17 +21,17 @@ What's improved after installing the TLS patch:
 ## App Recommendations
 **¹ Included in the folder**
 ### Music / Entertainment
-- JTube | [Link](https://nnp.nnchan.ru/jtube/): A working J2ME YouTube client on Symbian. Use these configurations below (added soon)
+- JTube¹ | [Link](https://nnp.nnchan.ru/jtube/): A working J2ME YouTube client on Symbian. Use these configurations below (added soon)
 - MIDplay | [Link](https://github.com/phd051199/MIDPlay): A J2ME Spotify/SoundCloud/YouTube music client on Symbian.
 - JukeBox¹: A working Internet radio app on Symbian.
-- ClassiCube | [Link](https://nnproject.cc/cc/): A recreation of Minecraft Classic, ported to Symbian.
+- ClassiCube¹ | [Link](https://nnproject.cc/cc/): A recreation of Minecraft Classic, ported to Symbian.
 - Podcatcher¹: A working podcast app on Symbian.
 - Music and FM Radio should work without any modifications.
 
 ### Productivity
 - Mailbox Creator¹: An app that creates dummy Gmail and Yahoo accounts. Follow [this video's instruction](https://www.youtube.com/watch?v=qojJ1PmNfP4) to properly add new emails.
 - Google Maps¹: An app that does Google Maps things, it is actually an old version.
-- Translator | [Link](https://nnproject.cc/bingt/): Use simpletranslate instance with Google Translate result.
+- Translator¹ | [Link](https://nnproject.cc/bingt/): Use simpletranslate instance with Google Translate result.
 - Opera Mini: A faster, snappier web experience for Symbian devices. It also helps loading several pages that are unloadable on other web browsers.
 - GH2ME | [Link](https://nnproject.cc/gh2me/): A J2ME GitHub browser which is capable of browsing and searching for users and repos.
 - RSS feed: Using the stock Web browser. Here's how to add new RSS feed onto the Feed list.
@@ -49,10 +49,9 @@ What's improved after installing the TLS patch:
 ### System Tools
 - Custom App Stores:
   - S60world | [Link](https://s60world.ir/)
-  - S60DL
+  - S60DL¹
   - Wunderland Store | [Link](https://ovi.wunderwungiel.pl/home/)
-  - SIStore
-  - JMobiDL
+  - JMobiDL¹
 - X-plore¹
 - ROMpatcher: Included in the Delight ROM. Always enable **CRepository4all_fix_FP2** and **Open4All RP+**. CRepository helps changing the web agent using the Delight App. Open4All RP+ helps with installing TLS 1.2 patch.
 - Pigler Notification API | [Link](https://nnproject.cc/pna/): This adds more features to the stock notification center (e.g. currently playing songs).
